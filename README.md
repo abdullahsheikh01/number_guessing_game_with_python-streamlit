@@ -18,13 +18,18 @@ This is a simple number guessing game built with Streamlit and Python created by
 
 ## Example
 
-1.  Enter "1" in the "Range of numbers from" field.
-2.  Enter "100" in the "to" field.
-3.  Click "Confirm range".
-4.  Enter "50" in the "Enter your guess number" field.
-5.  Click "Confirm Guess".
-6.  The game will tell you if your guess is too high, too low, higher than range, lower than range or correct.
+1. Open the App:<br>
+https://number-guessing-game-with-python-6601.streamlit.app/
+2.  Enter "1" in the "Range of numbers from" field.
+3.  Enter "100" in the "to" field.
+4.  Click "Confirm range".
+5.  Enter "50" in the "Enter your guess number" field.
+6.  Click "Confirm Guess".
+7.  The game will tell you if your guess is too high, too low, higher than range, lower than range or correct.
 
 ## Author
 
 [Abdullah Shaikh](https://www.linkedin.com/in/abdullah-shaikh-29699b302/)
+
+## Deployment Link:
+https://number-guessing-game-with-python-6601.streamlit.app/
